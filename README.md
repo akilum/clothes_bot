@@ -7,4 +7,4 @@ To work you need:
 
 Database diagram:
 
-![db](https://user-images.githubusercontent.com/63971364/219720062-ede35e9a-51c1-483d-82e1-3223750d1dde.jpg)
+![112](https://user-images.githubusercontent.com/63971364/219848137-7632c1f0-b848-4b73-91af-63eee151df9e.png)
